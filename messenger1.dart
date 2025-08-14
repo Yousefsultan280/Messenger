@@ -1,8 +1,6 @@
 import 'dart:ffi';
 import 'package:flutter/rendering.dart';
-
-import 'images.dart';
-import 'package:courseflutter/counter.dart';
+import 'images&others.dart';
 import 'package:flutter/material.dart';
 
 void  main(){
@@ -178,3 +176,4 @@ class _MessangerState extends State<Messanger> {
     );
   }
 }
+
